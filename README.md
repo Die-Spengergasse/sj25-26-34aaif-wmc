@@ -1,5 +1,11 @@
 # sj25-26-34aaif-wmc
 
+## 17.9.2025
+
+HÜ:
+
+- CSS Folie durchschauen und eigene Site dekorieren!
+
 ## 3.9.2025
 
 HÜ:
