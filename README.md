@@ -1,5 +1,19 @@
 # sj25-26-34aaif-wmc
 
+## 24.9.2025
+
+- width
+- rgba
+- etwas flex
+- <details>
+- w3c validator
+- box sizing
+
+HÜ:
+
+- recherche zu position:
+- einbau von positionierten Elementen auf der "übermich" site (kevin powell)
+
 ## 17.9.2025
 
 HÜ:
